@@ -1,0 +1,9 @@
+This is a NextJS and Laravel readymade auth system that includes all skeletons required to develop a nextJS and Laravel combined full stack project.
+
+https://github.com/laravel/breeze-next
+Drafted and published by taylor otwell himself.
+
+https://larainfo.com/blogs/laravel-9-authentication-with-next-js-example
+
+.env.example === .env (create one)
+both FE and BEs
